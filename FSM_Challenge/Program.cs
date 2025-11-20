@@ -62,7 +62,7 @@ namespace FSM_Challenge
 
         }
 
-        
+        // Challenge code goes here
         static EnemyState ProcessState(EnemyState state)
         {
             // TODO: Use rand in the switch statement to determine transitions
